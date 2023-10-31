@@ -19,6 +19,7 @@ const Hero = () => {
              <img src="./images/flipkart.png" alt="Flikart"/>
              <img src="./images/amazon.png" alt="Amazon"/>
           </div>
+          
         </div>
         
         </div>
